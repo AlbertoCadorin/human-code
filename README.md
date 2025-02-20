@@ -20,7 +20,9 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     - controllo cosa manca 
 
 - chiudo il frigo
+
 - prendo  il telefono in mano 
+
 - apro il telefono 
     - vado nelle note 
         - scrivo una lista nelle note 
@@ -33,15 +35,21 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
         - crocchette per Ricky
     - chiudo le note
     - chiudo il telefono 
-- metto il telefono in tasca 
+- metto il telefono in tasca
+
 - prendo il giubboto che era sopra alla sedia 
+
 - mi dirico verso la mensola per prendere le chiavi di casa e della macchina e il portafoglio con il coupon e il telecomando per il garage
+
 - metto chiavi della macchina e il portafoglio con il coupon nella tasca del giubbotto
 - vado a mettermi le scarpe 
+
 - apro la porta di casa 
     - attraverso la porta 
+
 - chiudo la porta a chiave 
     - metto le chiavi di casa dentro la tasca del giubbotto
+
 - prendo il telecomando 
     - apro il garage con il telecomando 
     - mi dirigo verso la macchina 
@@ -52,6 +60,7 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
         - esco dal garage
         - chiudo il garage
 - vado al supermercato 
+
     - pacheggio la macchina 
     - mi tolgo la cintura 
     - spengo la macchina 
@@ -60,14 +69,19 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     - chiudo la portiera 
     - chiudo la macchina 
 - mi dirigo verso l'entrata
+
 - prendo un grarrelo piccolo
+
 - aspetto che la porta si apra 
+
 - entro al supermercato
+
 - prendo il telefono in mano
     - apro il telefono 
         - entro nelle note 
         - apro la lista della spesa 
 -  comincio a prendere le cose che mi sono scritto
+
 - vado verso il reparto della verdura 
     - prendo un sacchetto e un guanto
     - prndo 5 carote 
@@ -79,6 +93,7 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     - li metto dentro il sacchetto 
     - chiudo il sacchetto 
     - li metto dentro il carrello 
+
 - vado verso il reparto latticini
     - cerco il latte e il burro  
         - se li trovo 
@@ -152,6 +167,55 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2025 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
 
 ### Punto di partenza
+
+- sono in ufficio 
+- trovare la pratica 
+- scansionare la pratica in formato digitale 
+- fare il fronte retro a mano 
+
+### Soluzione
+
+
+- sono in ufficio 
+- sono seduto sulla mia scrivani  
+- mi alzo dalla schrivania 
+- ceco la praticha che mi serve
+    - se la trovo 
+        - la prendo e torno alla schrivania
+    - altrimenti 
+        - continuo a cercarla
+        - o chiedo ad un mio collegha 
+- la trovo 
+- torno alla scrivania 
+- mi siedo 
+- accendo il computer 
+- ceco sul computer se ho un softwer di archifiazione digitale 
+    - se ho gia il softwer nel computer uso quello
+    - altrimenti cerco un softwer di archiviazione e lo scarico
+- creo una cartella dove inserire la pratiche che scansionero
+- se il computer non e collegato allo scanner
+    - collega il computer 
+- inizio a scansionare 
+    - inizio con la pratica piu vecchia 
+    - prendo il foglio 
+    - apro il coperchio dello scanner 
+    - metto il foglio nello scanner
+    - faccio partire la scansione 
+    - una volta che la scansione e finita 
+    - aprire il coperchio dello scannere 
+    - girare il foglio 
+    - chiudere il coperchio dello scanner 
+    - e var ripartire lo scanner 
+- una volta finita la scansione 
+    - se non ci sono altri fogli da scansionare 
+        - aprire il coperchio dello scanner 
+        - togliere il foglio 
+        - chiudere il coperchio 
+        - spegnere lo scanner
+    - altrimenti
+        - continuare il procedimento 
+        - finche non ci sono piu fogli da scansionare 
+- una volta terminato il lavoro spegnere il computer
 
 
 
